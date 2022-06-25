@@ -1,1 +1,1 @@
-# machine-learning-course-andrew-ng-notes
+# Notes from the Machine Learning Course by Andrew NG
